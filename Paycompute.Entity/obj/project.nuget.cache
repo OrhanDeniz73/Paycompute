@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iokCVHuEmXCnnVH2kGH2YsHSJ1oi6VwPPY+ILxAtKtz2Mqo4EUYpNuRTryKz2QVSBD4HggkjSX0SIXlZlyojAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\denni\\Desktop\\Paycompute\\Paycompute.Entity\\Paycompute.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
