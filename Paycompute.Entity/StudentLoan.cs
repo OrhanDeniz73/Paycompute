@@ -9,4 +9,5 @@ namespace Paycompute.Entity
         Yes,
         No
     }
+    //Comments here
 }
