@@ -8,3 +8,13 @@ C:\Users\denni\Desktop\Projects\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycom
 C:\Users\denni\Desktop\Projects\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
 C:\Users\denni\Desktop\Projects\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
 C:\Users\denni\Desktop\Projects\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.deps.json
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\bin\Debug\netcoreapp2.2\Paycompute.Entity.pdb
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.AssemblyReference.cache
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.AssemblyInfo.cs
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.dll
+C:\Users\denni\Desktop\Paycompute\Paycompute.Entity\obj\Debug\netcoreapp2.2\Paycompute.Entity.pdb
